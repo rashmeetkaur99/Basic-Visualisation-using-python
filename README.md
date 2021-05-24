@@ -1,4 +1,5 @@
 # Basic-Visualisation-using-python
+- Author : Rashmeet Kaur
 I executed some basic visualisation and descriptive statistical commands on a dataset.
 The dataset has four columns out of which two coulmns are of categorical data.
 # The project states :
