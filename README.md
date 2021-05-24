@@ -1,5 +1,6 @@
 # Basic-Visualisation-using-python
-I executed some basic visualisation and descriptive statistical commands on a dataset. The dataset has four columns out of which two coulmns are of categorical data.
+I executed some basic visualisation and descriptive statistical commands on a dataset.
+The dataset has four columns out of which two coulmns are of categorical data.
 #The project states :
 An Australian manufacturing company is keen to develop new products and develop new
 product line of jackets so that the company can expand into Asian markets more than before.
